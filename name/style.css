@@ -1,0 +1,32 @@
+.property {
+  height: 60px;
+  overflow: hidden;
+  width: 44px;
+}
+
+.property .overlap-group {
+  height: 60px;
+  left: 21px;
+  position: relative;
+  width: 290px;
+}
+
+.property .text-wrapper {
+  color: #000000;
+  font-family: "Anonymous Pro-Bold", Helvetica;
+  font-size: 27px;
+  font-weight: 700;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 12px;
+  width: 290px;
+}
+
+.property .carrot-instance {
+  background-color: #000000 !important;
+  left: 15px !important;
+  position: absolute !important;
+  top: 0 !important;
+}
